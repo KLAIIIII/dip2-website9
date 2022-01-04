@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 
                 <div class="card-text text-center">
-                    <h3><span class="text-Secondary">
+                    <h3><span class="text-info">
                         "ข่าวประชาสัมพันธ์"
                         </span>
                         <span class="text-danger">
@@ -58,7 +58,7 @@
                         เทคนิคตราดโฉมใหม่ ใส่ใจบุตรหลาน จัดการศึกษา เพื่อการมีงานทำ
                     </span></h4>
                 </div>
-                
+
             </div>
         </div>
 </div>
