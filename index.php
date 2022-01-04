@@ -5,6 +5,9 @@
 <?php include("includes/slider.php"); ?>
 
 <?php include("includes/section.php"); ?>
+
+<?php include("includes/section2.php"); ?>
+
 <?php include("includes/footer.php"); ?>
 
 <!-- <a class="btn btn-primary" href="login.php" role="button">Login</a> -->
