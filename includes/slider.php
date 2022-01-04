@@ -4,8 +4,7 @@
             <div class="col-md-12">
                 
                 <div class="card-text text-center">
-                    <h3 class="text-Secondary">
-                        <span class="text-Secondary">
+                    <h3><span class="text-Secondary">
                         "ข่าวประชาสัมพันธ์"
                         </span>
                         <span class="text-danger">
@@ -16,15 +15,13 @@
                 
             </div>
         </div>
-    </div>
-</div>
 
 <div class="container">
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
+  <!-- <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-  </div>
+  </div> -->
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="images/dark.jpg" class="d-block w-100" alt="...">
@@ -50,5 +47,19 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
+</div>
+</div>
+
+<div class="row mt-3">
+            <div class="col-md-12">
+                
+                <div class="card-text text-center">
+                    <h4><span class="text-info">
+                        เทคนิคตราดโฉมใหม่ ใส่ใจบุตรหลาน จัดการศึกษา เพื่อการมีงานทำ
+                    </span></h4>
+                </div>
+                
+            </div>
+        </div>
 </div>
 </div>

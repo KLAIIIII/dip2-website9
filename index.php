@@ -8,11 +8,13 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h1>Hello</h1>
-                <a class="btn btn-primary" href="login.php" role="button">Login</a>
+                <h2 class="text-center"><span class="text-danger">วิทยาลัยเทคนิคตราด</span></h2>
+                <h4 class="text-center text-Warning">แนวคิดการจัดการศึกษา</h4>
             </div>
         </div>
     </div>
 </div>
 
 <?php include("includes/footer.php"); ?>
+
+<!-- <a class="btn btn-primary" href="login.php" role="button">Login</a> -->

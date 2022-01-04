@@ -10,6 +10,6 @@
     <link href="https://fonts.googleapis.com/css2?family=Sarabun&display=swap" rel="stylesheet">
     <link href="../css/customer.css" rel="">
 
-    <title>Hello, world!</title>
+    <title>website, Mr.Mark</title>
   </head>
   <body>

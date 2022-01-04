@@ -2,6 +2,10 @@
     font-family: 'Sarabun', sans-serif;
 }
 
-h1,h4,h3 {
+h1,h4,h3,h4 {
+    font-family: 'Sarabun', sans-serif;
+}
+
+navbar-brand,nav-link active{
     font-family: 'Sarabun', sans-serif;
 }
