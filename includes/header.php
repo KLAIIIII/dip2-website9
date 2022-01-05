@@ -7,9 +7,9 @@
 
     <!-- Bootstrap CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Sarabun&display=swap" rel="stylesheet">
-    <link href="../css/customer.css" rel="">
+    <link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@300&display=swap" rel="stylesheet">
+    <link href="css/customer.css" rel="stylesheet">
 
-    <title>website, Mr.Mark</title>
+    <title>website, Ms.Gate</title>
   </head>
-  <body>
+  

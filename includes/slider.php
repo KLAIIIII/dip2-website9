@@ -1,15 +1,12 @@
-<div class="container shadow-lg mt-3 p-2 bg-body rounded">
-    <div class="shadow-sm p-2 md-1 rounded">
+<div class="container shadow-lg mt-3 p-2 rounded" >
+    <div class="shadow-sm p-2 md-1 rounded" style="background-color: #e4ddd5;">
         <div class="row">
             <div class="col-md-12">
                 
                 <div class="card-text text-center">
-                    <h3><span class="text-info">
-                        "ข่าวประชาสัมพันธ์"
-                        </span>
-                        <span class="text-danger">
-                        วท.ตราด
-                        </span>
+                    <h3>
+                      <span class="text-dark">ทักษะที่ควรเรียนรู้</span>
+                      <span style="color: #708a66;">เพื่อชีวิตที่ดียิ่งกว่า</span>
                     </h3>
                 </div>
                 
@@ -26,8 +23,11 @@
     <div class="carousel-item active">
       <img src="images/sliders/dark.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
+        <h5>ทำไมการพัฒนาตนเองควรอยู่ในเป้าหมายชีวิต</h5>
+        <p>การพัฒนาตนเองจะช่วยให้คุณเรียนรู้เกี่ยวกับตัวคุณและสิ่งที่คุณต้องการจากชีวิต 
+          เมื่อคุณลงทุนในการพัฒนาตนเองคุณจะต้องดำเนินต่อไป และการใช้ชีวิตของคุณจะเปลี่ยนไป 
+          คุณจะต้องดิ้นรนเพื่อให้ดีขึ้น ซึ่งมันจะช่วยให้คุณเติบโตและมีชีวิตอยู่ในความเป็นอยู่ที่ดีมีความสุข 
+          ช่วยให้คุณประสบความสำเร็จและบรรลุศักยภาพสูงสุดของคุณ - workinneed</p>
       </div>
     </div>
     <div class="carousel-item">
@@ -53,9 +53,10 @@
 <div class="row mt-3">
             <div class="col-md-12">
                 
-                <div class="card-text text-center">
-                    <h4><span class="text-info">
-                        เทคนิคตราดโฉมใหม่ ใส่ใจบุตรหลาน จัดการศึกษา เพื่อการมีงานทำ
+                <div class="card-text text-center fw-bolder" style="color:#708a66;">
+                    <h4><span>
+                        โอกาสในการเปลี่ยนตัวเองเป็น"คนใหม่" <br>
+                        มีซ่อนอยู่ใน"ลมหายใจ"ทุกขณะ
                     </span></h4>
                 </div>
 

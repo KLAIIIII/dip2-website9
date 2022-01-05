@@ -1,3 +1,4 @@
+<body style="background-color: #ddd6cf;">
 <!-- Option 1: Bootstrap Bundle with Popper -->
 <script src="js/bootstrap.bundle.min.js"></script>
 
