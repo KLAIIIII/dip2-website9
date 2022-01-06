@@ -1,13 +1,13 @@
-<div class="container shadow-lg mt-3 p-2 rounded" >
-    <div class="shadow-sm p-2 md-1 rounded" style="background-color: #e4ddd5;">
+<div class="container shadow-lg mt-3 p-1 rounded" >
+    <div class="shadow-sm p-1 md-1 rounded" style="background-color: #f5f5f5;">
         <div class="row">
             <div class="col-md-12">
                 
-                <div class="card-text text-center">
-                    <h3>
+                <div class="card-text text-center mt-2">
+                    <h4>
                       <span class="text-dark">ทักษะที่ควรเรียนรู้</span>
                       <span style="color: #708a66;">เพื่อชีวิตที่ดียิ่งกว่า</span>
-                    </h3>
+                    </h4>
                 </div>
                 
             </div>
@@ -53,11 +53,9 @@
 <div class="row mt-3">
             <div class="col-md-12">
                 
-                <div class="card-text text-center fw-bolder" style="color:#708a66;">
-                    <h4><span>
-                        โอกาสในการเปลี่ยนตัวเองเป็น"คนใหม่" <br>
-                        มีซ่อนอยู่ใน"ลมหายใจ"ทุกขณะ
-                    </span></h4>
+                <div class="card-text text-center fw-bold" style="color:black;">
+                    <h4><span style="color:#fcc34f;">โอกาสในการเปลี่ยนตัวเองเป็น"คนใหม่" <br></span></h4>
+                    <h4><span>มีซ่อนอยู่ใน"ลมหายใจ"ทุกขณะ</span></h4>
                 </div>
 
             </div>
