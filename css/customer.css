@@ -19,3 +19,7 @@ navbar-brand,nav-link active{
 .card-title {
     color: #708a66;
 }
+
+.from-label,.btn{
+    font-family: 'Sarabun', sans-serif;
+}
