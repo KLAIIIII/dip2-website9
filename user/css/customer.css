@@ -1,0 +1,25 @@
+.navbar{
+    font-family: 'Sarabun', sans-serif;
+}
+
+h1,h2,h3,h4,p {
+    font-family: 'Sarabun', sans-serif;
+}
+
+navbar-brand,nav-link active{
+    font-family: 'Sarabun', sans-serif;
+}
+
+.underline{
+    width: 140px;
+    height: 2px;
+    background-color: black;
+}
+
+.card-title {
+    color: #708a66;
+}
+
+.from-label,.btn{
+    font-family: 'Sarabun', sans-serif;
+}
